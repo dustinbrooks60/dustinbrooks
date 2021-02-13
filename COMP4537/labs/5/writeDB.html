@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COMP4537 - Lab 5</title>
+</head>
+<body>
+<h2>Enter name and score</h2>
+<label for="name">Name:</label></br>
+<input type="text" id="name" name="name" value="Enter a name"></br></br>
+<label for="score">Score:</label></br>
+<input type="text" id="score" name="score" value="Enter a score"></br></br>
+<input type="submit" value="store in DB" onclick="checkData()">
+
+<script>
+  function checkData() {
+    let name = document.getElementById("name").value;
+    let score = parseInt(document.getElementById("score").value);
+
+    if (name != null && !isNaN(score)) {
+      sendInfo();
+    }
+    else {
+      window.alert("Your score is not a number, try again.");
+    }
+
+  }
+
+  function sendInfo() {
+    const xhttp = new XMLHttpRequest();
+    let name = document.getElementById("name").value;
+    let score = parseInt(document.getElementById("score").value);
+    xhttp.open("GET", "https://dustin-brooks-60.netlify.app/comp4537/labs/5/writedb/?name=" + name + "&score=" + score , true);
+    xhttp.send(name, score);
+
+    xhttp.onreadystatechange = function () {
+      if (this.readyState == 4 && this.status == 200) {
+        window.alert(name + ":" + score + " was stored in the DB");
+      }
+    };
+  }
+</script>
+
+
+</body>
+</html>
+
+
+</body>
+</html>
