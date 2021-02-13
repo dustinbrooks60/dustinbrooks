@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90587454-d5bd-4802-86c0-7ba7f5d18129" name="Default Changelist" comment="writeDB">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90587454-d5bd-4802-86c0-7ba7f5d18129" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="77" lean-forward="true" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+            <state relative-caret-position="391">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -24,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/COMP4537/COMP4537.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+            <state relative-caret-position="357">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -47,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/COMP4537/COMP4537.html" />
         <option value="$PROJECT_DIR$/COMP4537/labs/5/writeDB.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -80,19 +88,6 @@
               <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="labs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="labs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,6 +97,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -132,7 +128,7 @@
       <updated>1611167838052</updated>
       <workItem from="1611167839110" duration="846000" />
       <workItem from="1611187351041" duration="19000" />
-      <workItem from="1613178351224" duration="7606000" />
+      <workItem from="1613178351224" duration="8459000" />
     </task>
     <task id="LOCAL-00001" summary="writeDB">
       <created>1613189190075</created>
@@ -141,11 +137,18 @@
       <option name="project" value="LOCAL" />
       <updated>1613189190075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed issue with logo not being found">
+      <created>1613191826762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613191826762</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8471000" />
+    <option name="totallyTimeSpent" value="9324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="834" y="9" width="1712" height="1390" extended-state="0" />
@@ -175,27 +178,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="writeDB" />
-    <option name="LAST_COMMIT_MESSAGE" value="writeDB" />
+    <MESSAGE value="fixed issue with logo not being found" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed issue with logo not being found" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/COMP4537/COMP4537.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        <state relative-caret-position="374">
+          <caret line="22" column="77" lean-forward="true" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
         </state>
       </provider>
     </entry>
