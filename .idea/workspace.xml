@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90587454-d5bd-4802-86c0-7ba7f5d18129" name="Default Changelist" comment="" />
+    <list default="true" id="90587454-d5bd-4802-86c0-7ba7f5d18129" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/COMP4537/labs/5/writeDB.html" beforeDir="false" afterPath="$PROJECT_DIR$/COMP4537/labs/5/writeDB.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -119,7 +121,7 @@
       <updated>1611167838052</updated>
       <workItem from="1611167839110" duration="846000" />
       <workItem from="1611187351041" duration="19000" />
-      <workItem from="1613178351224" duration="10509000" />
+      <workItem from="1613178351224" duration="11638000" />
     </task>
     <task id="LOCAL-00001" summary="writeDB">
       <created>1613189190075</created>
@@ -139,7 +141,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11374000" />
+    <option name="totallyTimeSpent" value="12503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1150" y="9" width="1396" height="1390" extended-state="0" />
@@ -192,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
