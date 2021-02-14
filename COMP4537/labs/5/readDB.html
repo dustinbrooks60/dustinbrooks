@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>COMP4537 - Lab 5</title>
-  <script src="index.js"></script>
 </head>
 
 
@@ -13,6 +12,34 @@
   <button type="button" onclick="retrieveInfo()">Get information from DB</button>
 </div>
 
+
+<script>
+  function retrieveInfo() {
+    const xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "https://morning-plains-21138.herokuapp.com/", true);
+    xhttp.send();
+
+    xhttp.onreadystatechange = function () {
+      if (this.readyState == 4 && this.status == 200) {
+        console.log(this.responseText);
+        let objects = JSON.parse(this.responseText);
+        console.log(objects[0].name);
+
+
+
+        let results = "";
+        for (let i = 0; i < objects.length; i++) {
+          results += objects[i].name + " : ";
+          results += objects[i].score + " / ";
+          results += "\n"
+        }
+
+        document.getElementById("data").innerHTML = results;
+
+      }
+    };
+  }
+</script>
 
 
 </body>
