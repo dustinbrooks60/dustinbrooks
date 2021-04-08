@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90587454-d5bd-4802-86c0-7ba7f5d18129" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dustinbrooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dustinbrooks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/COMP4537/COMP4537.html" beforeDir="false" afterPath="$PROJECT_DIR$/COMP4537/COMP4537.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COMP4537/labs/5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/COMP4537/labs/5/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +18,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/adminEdit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="77" lean-forward="true" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
@@ -23,28 +36,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/readDB.html">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/index/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/index.js">
+        <entry file="file://$PROJECT_DIR$/COMP4537/API/V1/COMP4537-API-Documentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COMP4537/COMP4537.html">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/studentQuiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="39">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="39" selection-start-line="39" selection-end-line="47" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/adminLogin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/student/quiz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -54,10 +112,45 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>choiceArr</find>
+      <find>QUIZ_ID</find>
+      <find>groupBy</find>
+      <find>choice</find>
+      <find>question</find>
+      <find>addOption</find>
+      <find>createQuestions</find>
+      <find>createQu</find>
+      <find>deleteQuestion</find>
+      <find>createQuestion</find>
+      <find>choicesList</find>
+      <find>createQuestionsPage</find>
+      <find>maker</find>
+      <find>maker.choi</find>
+      <find>clearQuestions</find>
+      <find>.choice</find>
+      <find>quiz-choices-</find>
+      <find>.creator.op</find>
+      <find>options</find>
+      <find>btn-bu</find>
+      <find>quiz-option</find>
+      <find>form-control</find>
+      <find>option</find>
+      <find>creator</find>
+      <find>POSSIBLE_CHOICES</find>
+      <find>BTN</find>
+      <find>quiz-choices</find>
+      <find>background</find>
+      <find>current_url</find>
+      <find>param-desc</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,23 +162,59 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/COMP4537/labs/5/writeDB.html" />
-        <option value="$PROJECT_DIR$/COMP4537/COMP4537.html" />
         <option value="$PROJECT_DIR$/COMP4537/labs/5/readDB.html" />
         <option value="$PROJECT_DIR$/COMP4537/labs/5/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/student.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/admin.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/student/leaderboard.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/leaderboard.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/leaderboard.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/serverUrl.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/student/quiz.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/student/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/index.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/admin/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/admin/edit.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/COMP4537/COMP4537.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/index.css" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/index.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/edit.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/student/index.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/admin_index.css" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/student_index.css" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/quiz.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/edit.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/student/quiz.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/student_quiz.css" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/index.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/adminEdit.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/admin_edit.css" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/studentQuiz.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/index.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/adminLogin.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/adminLogin.html" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/adminEdit.js" />
+        <option value="$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/index/login.js" />
+        <option value="$PROJECT_DIR$/COMP4537/API/V1/COMP4537-API-Documentation.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1460" />
-    <option name="y" value="9" />
-    <option name="width" value="1086" />
-    <option name="height" value="1390" />
+    <option name="x" value="1248" />
+    <option name="y" value="6" />
+    <option name="width" value="1312" />
+    <option name="height" value="1359" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -98,11 +227,81 @@
               <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="API" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="API" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="V1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assignments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assignments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assignments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="quiz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assignments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="quiz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assignments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="quiz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="index" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="labs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="COMP4537" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="labs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dustinbrooks" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,8 +310,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks\COMP4537\API\V1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks\COMP4537\assignments\1\quiz\html\student" />
+      <recent name="C:\Users\Dustin Brooks\WebstormProjects\dustinbrooks\COMP4537\assignments\1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +347,14 @@
       <updated>1611167838052</updated>
       <workItem from="1611167839110" duration="846000" />
       <workItem from="1611187351041" duration="19000" />
-      <workItem from="1613178351224" duration="16590000" />
+      <workItem from="1613178351224" duration="28189000" />
+      <workItem from="1615171826300" duration="26660000" />
+      <workItem from="1615594931825" duration="114914000" />
+      <workItem from="1616312589201" duration="721000" />
+      <workItem from="1617310905753" duration="13767000" />
+      <workItem from="1617486919852" duration="5906000" />
+      <workItem from="1617763160856" duration="8640000" />
+      <workItem from="1617911423706" duration="3169000" />
     </task>
     <task id="LOCAL-00001" summary="writeDB">
       <created>1613189190075</created>
@@ -154,17 +370,49 @@
       <option name="project" value="LOCAL" />
       <updated>1613191826762</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <created>1613280067993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613280067993</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17455000" />
+    <option name="totallyTimeSpent" value="202831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1460" y="9" width="1086" height="1390" extended-state="0" />
+    <frame x="1248" y="6" width="1312" height="1359" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19366716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18610224" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Project Explorer" order="3" />
+      <window_info id="DB Browser" order="4" weight="0.32934132" />
+      <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13142486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,7 +429,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -189,18 +437,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="writeDB" />
     <MESSAGE value="fixed issue with logo not being found" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed issue with logo not being found" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="61" lean-forward="true" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -223,44 +465,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js" />
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/site.webmanifest">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/COMP4537/COMP4537.html">
+    <entry file="file://$USER_HOME$/Desktop/Brooks_Truong_lab5/appWrite.js" />
+    <entry file="file://$USER_HOME$/Desktop/Brooks_Truong_lab5/appRead.js" />
+    <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/readDB.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/writeDB.html">
+    <entry file="file://$PROJECT_DIR$/COMP4537/labs/5/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/admin.html" />
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/index.js" />
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/student.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="61" lean-forward="true" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/leaderboard.js" />
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/leaderboard.html" />
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/scripts/serverUrl.js" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/COMP4537/COMP4537.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/student_quiz.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/admin_index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/student/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/admin_edit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/css/student_index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/adminEdit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/adminLogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/adminLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/student/quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/html/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="39" selection-start-line="39" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/API/V1/COMP4537-API-Documentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/student/studentQuiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/index/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMP4537/assignments/1/quiz/js/admin/adminEdit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="77" lean-forward="true" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
         </state>
       </provider>
     </entry>
